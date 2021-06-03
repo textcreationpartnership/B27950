@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of Monsieur Peire's certificate, sent by him to Captain Desborow; concerning Monsieur Ponti's five ships appearing off St. John's port in Newfoundland, translated into English from the original, which is ready to be produced.</title>
+            <author>Peire, Monsieur.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27950</idno><idno type="EEBO-CITATION">99886595</idno>
+  <idno type="VID">187508</idno>
+  <idno type="EEBO-PROQUEST">2248538587</idno>
+  
+            <idno type="STC">Wing P1066B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.7[80]</idno>
+            <idno type="STC">ESTC R226257</idno>
+            <idno type="PROQUEST">ocm99886595</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886595e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27950)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187508)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:1[82])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of Monsieur Peire's certificate, sent by him to Captain Desborow; concerning Monsieur Ponti's five ships appearing off St. John's port in Newfoundland, translated into English from the original, which is ready to be produced.</title>
+                  <author>Peire, Monsieur.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Signed and dated at end: Dover, 28 Jan. 1698. Peire.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Desborow, Charles. --  Early works to 1800.</term>
+               <term type="topical_term">Ships --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="statement">
+            <pb n="1" facs="tcp:187508:1"/>
+            <head>A COPY OF Monsieur <hi>Peire</hi>'s Certificate, Sent by him To Captain Desborow;</head>
+            <head type="sub">CONCERNING <hi>Monsieur</hi> PONTI<hi>'s Five Ships appearing off</hi> St. John<hi>'s Port in</hi> Newfoundland, <hi>Translated into</hi> English <hi>from the Original, which is ready to be produced.</hi>
+            </head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <p>I Under-written, heretofore part Owner of the Ship called the <hi>Warlike,</hi> Mon<g ref="char:EOLhyphen"/>sieur <hi>John la Grange</hi> of <hi>Rochel,</hi> Commander, do Certify to whom it may be<g ref="char:EOLhyphen"/>long, That on the <hi>15th</hi> day of <hi>May</hi> last we sailed from the Road of <hi>Rochel,</hi> un<g ref="char:EOLhyphen"/>der the Convoy of the Squadron Commanded by Monsieur <hi>de Nesmond,</hi> Lieute<g ref="char:EOLhyphen"/>nant General of the <hi>Marines</hi> in <hi>France,</hi> and along with the <hi>Canada</hi> Fleet, for which place the foresaid Ship the <hi>Warlike</hi> was Bound: and having accompanied the afore<g ref="char:EOLhyphen"/>said Squadron Forty five Days, we were afterwards parted from it by Fogs and con<g ref="char:EOLhyphen"/>trary Winds, which when I found, I ordered Captain <hi>La Grange</hi> to Steer his Course towards <hi>Placentia</hi> in <hi>Newfoundland,</hi> at which place Monsieur <hi>Nesmond</hi> had appoint<g ref="char:EOLhyphen"/>ed us to Randezvouze, in Case we should be separated from one another. And it happened, that on the <hi>15th</hi> of <hi>July,</hi> of the same Year, while we were upon the great Bank, we met by break of Day the <hi>English</hi> Squadron, Commanded by Cap<g ref="char:EOLhyphen"/>tain <hi>Norris,</hi> being Ten Men of War in Number (including the <hi>Mary-Galley)</hi> and two Fireships, the which pursued us for some time, and at last constrained us to strike our Sails. After which the said Captain <hi>Norris,</hi> hearing that Monsieur <hi>de Nesmond</hi> was at Sea, he thought fit to retire to St. <hi>John</hi>'s Harbour, where Colonel <hi>Gibson</hi> was with part of his Regiment, to secure the said Harbour against the Attacks of the <hi>French.</hi>
+                        </p>
+                        <p>I do moreover declare, That about Eight or Ten Days after the <hi>French</hi> Squadron Commanded by Monsieur <hi>de Ponti,</hi> coming from <hi>Carthagina,</hi> who wanted to take in Fresh Water, according to the Account given us by Mons. <hi>Povilharmout,</hi> Ensign of a Man of War, and other Persons who were with him, sent by Monsieur <hi>Ponti</hi> in a Shal<g ref="char:EOLhyphen"/>lop, against the Shallop belonging to the <hi>Portland,</hi> who had been sent to discover the said Squadron, and the abovesaid Monsieur <hi>Povilharmout</hi> meeting with a Storm, and not being able to overtake any of the Ships of his own Squadron, was forced to Surrender himself a Prisoner of War in the Hands of the <hi>English,</hi> on the aforesaid Coast of <hi>Newfoundland,</hi> where having been brought on Board the <hi>Monk,</hi> Captain <hi>Norris</hi> Comodore; and being ask'd what he knew, the Comodore ordered the Cap<g ref="char:EOLhyphen"/>tain of the <hi>Mary-Galley,</hi> to go out of St. <hi>John's</hi> Haven, in order to view the said Monsieur <hi>de Ponti</hi>'s Squadron, which after some time he met Sailing for <hi>France;</hi> Mon<g ref="char:EOLhyphen"/>sieur <hi>Ponti</hi> seeing himself Discovered, and knowing that there was a Fleet of <hi>English</hi> Men of War, put out his Lights, for Reasons unknown to me, which the Captain of the <hi>Mary-Galley</hi> acquainted Captain <hi>Norris</hi> with, who could have easily gone out, and taken advantage of Monsieur <hi>Ponti</hi>'s Weakness, who was not able to Fight; the
+<pb n="2" facs="tcp:187508:2"/> Remainder of his Men being almost all Sick, and the other lost in the Expedition a<g ref="char:EOLhyphen"/>gainst <hi>Carthagina.</hi>
+                        </p>
+                        <p>And (as I was informed on board the <hi>Guarnzey,</hi> Captain <hi>Rophey</hi> Commander, where I was a Prisoner with many other <hi>French)</hi> Captain <hi>Norris</hi> Commanded, that some should go a Cruizing on the <hi>Great Bank,</hi> in order to take some Prizes, if pos<g ref="char:EOLhyphen"/>sible. The Captain of the <hi>Mary Galley</hi> went thither, where he met Monsieur <hi>Nesmond</hi>'s Squadron, which was a Cruizing in those Parts; and having avoided it, he came and made his Report to Captain <hi>Norris,</hi> at the aforesaid St. <hi>Johns,</hi> bringing back with him a small Prize, which he took from the <hi>French.</hi>
+                        </p>
+                        <p>I farther declare, that after the Arrival of the <hi>Mary Galley,</hi> the said Captain <hi>Nor<g ref="char:EOLhyphen"/>ris,</hi> in order to excuse himself of the Fault he had committed in not pursuing the said Monsieur <hi>Ponti,</hi> and lay it on the Captain of the <hi>Mary Galley,</hi> pretending he had not given him all the necessary Informations, he called his Council of War toge<g ref="char:EOLhyphen"/>ther, and broke the said Captain of the <hi>Mary Galley,</hi> and put Captain <hi>Clesby</hi> in his room, in Testimony whereof, I have set my Name to this Present, being a faithful and true Account.</p>
+                        <closer>
+                           <dateline>
+                              <hi>Dover,</hi>
+                              <date>28 <hi>Jan.</hi> 1698.</date>
+                           </dateline>
+                           <signed>PEIRE.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>IT is humbly hoped, That this Certificate will convince all Persons, that there was no reasonable Ground for Captain <hi>Norris</hi> to suppose that Monsieur <hi>Nesmond</hi> intended to go to St. <hi>John</hi>'s Port, unless he had Intelligence that the Squadron Com<g ref="char:EOLhyphen"/>manded by Captain <hi>Norris,</hi> was to be there.</p>
+            <p>For it appeared by the Intelligence from Prisoners, who were part of Monsieur <hi>Nesmond</hi>'s Squadron, that he was to convoy the Ships bound for <hi>Canada</hi> and <hi>Placentia,</hi> to strengthen and supply those Places with what was wanting: and the Prisoners did not so much as mention, that Monsieur <hi>Nesmond</hi> intended for St. <hi>Johns,</hi> and until his Arrival at <hi>Placentia,</hi> he could not know that St. <hi>John</hi>'s Port was again quitted by the <hi>French,</hi> since that was not done until he was actually sailed from <hi>France;</hi> nor did we know it, until our Arrival there.</p>
+            <p>And there was no imaginable Ground to suppose that the <hi>French</hi> had Notice of our Design for St. <hi>Johns:</hi> For all the Orders given by Captain <hi>Norris</hi> to Captain <hi>Desborow,</hi> and others, did only mention a Foreign Voyage, and not whither we were bound; nor did we know till after we were at Sea.</p>
+            <p>But if Monsieur <hi>Nesmond</hi> had known of our being at St. <hi>John</hi>'s, it is highly im<g ref="char:EOLhyphen"/>probable that he should separate his Squadron, and send only Five of his Ships to lye Eight Days before St. <hi>John</hi>'s, and in <hi>Consumption Bay;</hi> which, in all probability, would have been taken or destroyed, before the rest could have come to their Re<g ref="char:EOLhyphen"/>lief, if all our Ships had been in Condition, and we had had Resolution to have attackt them.</p>
+            <p>Therefore it is humbly submitted, whether Monsieur <hi>Nesmond</hi>'s being Bound for <hi>Placentia,</hi> (which is about Fifty Leagues from St. <hi>John</hi>'s) could be a sufficient Rea<g ref="char:EOLhyphen"/>son to dis-believe and invalidate all the plain Advices and Evidences that the Five Ships seen off St. <hi>John</hi>'s, were part of Monsieur <hi>Ponti</hi>'s Squadron.</p>
+            <p>Quere, Whether at any time it has been known, When a Flag-Officer hath appear'd forward to fight an Enemy, his Captains have refus'd?</p>
+         </div>
+      </body>
+   </text>
+</TEI>
